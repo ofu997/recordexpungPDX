@@ -1685,7 +1685,7 @@ After opening that link, the Chrome Developer Tools will be displayed. Select `i
 
 Debugging Jest tests is supported out of the box for [Visual Studio Code](https://code.visualstudio.com).
 
-Use the following [`launch.json`](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations) configuration file:
+Use the following [`son`](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations) configuration file:
 ```
 {
   "version": "0.2.0",
